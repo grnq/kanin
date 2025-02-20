@@ -16,4 +16,5 @@ def testing():
 
 if __name__ == "__main__":
     main(2)
+    main(3)
     main(7)
